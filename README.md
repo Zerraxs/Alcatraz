@@ -46,6 +46,6 @@ Alcatraz a beaucoup de fonctionnalités, avec **9 catégories principales**:
 
 ## Lien utiles
 
-*   [Discord](https://discord.com/invite/MYMAW3Ff53)
+*   Discord --> Plus de Discord
 *   [Github](https://github.com/ThisDudeBoy/Alcatraz/)
 
